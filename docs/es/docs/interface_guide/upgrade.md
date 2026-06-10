@@ -1,6 +1,6 @@
-# Actualización
+# Actualizar
 
-En el lado izquierdo del panel de administración web, vaya a **SYSTEM** -> **Upgrade** para actualizar el firmware del router.
+En el lado izquierdo del panel de administración web, vaya a **SISTEMA** -> **Actualizar** para actualizar el firmware del router.
 
 En algunos modelos celulares, también puede actualizar la versión del módulo si es necesario.
 
@@ -24,7 +24,7 @@ Si el router está conectado a Internet, comprobará si hay actualizaciones de f
 
 ![upgrade reminder](https://static.gl-inet.com/docs/router/en/4/interface_guide/upgrade/upgrade_reminder.png){class="glboxshadow"}
 
-**Nota**: Si al intentar realizar una actualización en línea aparece **Download Failed**, vaya a **System** -> **Time Zone** y corrija el error de zona horaria sincronizando con el navegador.
+**Nota**: Si al intentar realizar una actualización en línea aparece **Descarga Fallida**, vaya a **SISTEMA** -> **Zona Horarioa** y corrija el error de zona horaria sincronizando con el navegador.
 
 ![online download failed](https://static.gl-inet.com/docs/router/en/4/interface_guide/upgrade/online_download_failed.jpg){class="glboxshadow gl-50-desktop"}
 
@@ -40,9 +40,9 @@ Después de subirlo, se verificará el firmware.
 
 ![local upgrade uploaded](https://static.gl-inet.com/docs/router/en/4/interface_guide/upgrade/local_upgrade_uploaded.png){class="glboxshadow"}
 
-- **Keep Settings:** Si esta opción está habilitada, se conservarán los ajustes actuales y, al finalizar la actualización, se le pedirá que reinstale los paquetes instalados por el usuario. **NO** marque esta opción cuando haga un downgrade del firmware.
+- **Mantener la configuración:** Si esta opción está habilitada, se conservarán los ajustes actuales y, al finalizar la actualización, se le pedirá que reinstale los paquetes instalados por el usuario. **NO** marque esta opción cuando haga un downgrade del firmware.
 
-Haga clic en **Install** para actualizar.
+Haga clic en **Instalar** para actualizar.
 
 ## Actualización del módem
 
